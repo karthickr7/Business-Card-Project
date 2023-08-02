@@ -44,3 +44,6 @@ delete the data through the streamlit UI
 expected. You can run the application on your local machine by running the
 command streamlit run app.py in the terminal, where app.py is the name of
 your Streamlit application file.
+  7. Improve the application: Continuously improve the application by adding new
+features, optimizing the code, and fixing bugs. You can also add user
+authentication and authorization to make the application more secure.
